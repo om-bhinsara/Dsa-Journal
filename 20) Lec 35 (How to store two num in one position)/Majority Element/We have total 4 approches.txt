@@ -1,0 +1,7 @@
+1) o(n^2)
+2) first sort using sort(arr.begin(), arr.end() - O(nlogn)
+   then see in occureance 
+3) using count size array
+4) 2).cpp Without using extra space - using voting system, (candidate, count)
+
+5) om method 1).cpp

@@ -1,0 +1,5 @@
+1) o(n^2)
+2) first sort using sort(arr.begin(), arr.end() - O(nlogn)
+   then find occrance 
+3) using count size array
+4) 1).cpp - without using extra space 
