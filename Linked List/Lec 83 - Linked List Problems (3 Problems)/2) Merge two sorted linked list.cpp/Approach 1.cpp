@@ -72,7 +72,7 @@ int main()
     { 
         if(head1->data >= head2->data)
         {
-            Node *temp;
+            Node *temp=head2;
             temp->data=head2->data;
             curr->next=temp;
             curr=curr->next;
@@ -80,7 +80,7 @@ int main()
         }
         else    
         {
-            Node *temp;
+            Node *temp=head1;
             temp->data=head1->data;
             curr->next=temp;
             curr=curr->next;
