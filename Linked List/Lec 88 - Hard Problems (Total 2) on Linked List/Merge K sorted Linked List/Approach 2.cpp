@@ -122,7 +122,7 @@ int main()
     Node* head6 = createList(arr6);
     Node* head7 = createList(arr7);
     Node* head8 = createList(arr8);
-  
+    
     // Store all heads in vector
     vector<Node*> lists = {head1, head2, head3, head4, head5, head6, head7, head8};
     int k = lists.size();
