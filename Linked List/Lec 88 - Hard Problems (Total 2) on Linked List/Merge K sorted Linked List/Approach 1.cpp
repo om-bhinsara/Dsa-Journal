@@ -13,7 +13,7 @@ public:
         data = val;
         next = NULL;
     }
-};
+}; 
 
 // Function to create linked list from vector
 Node* createList(vector<int>& arr)
